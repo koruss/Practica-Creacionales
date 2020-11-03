@@ -1,6 +1,4 @@
 
-package Main;
-
 //Implementa interfaz IPieza
 //Clase que tiene los metodos aplicados de la pieza L
 public class PiezaL implements IPieza{

@@ -1,6 +1,3 @@
-
-package Main;
-
 public class Main {
     //Colores para las piezas
     public static final String ANSI_RESET = "\u001B[0m";

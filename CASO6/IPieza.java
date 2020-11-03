@@ -1,6 +1,4 @@
 
-package Main;
-
 //Interfaz implementada por los distintos productos de la fabrica 
 public interface IPieza {
     

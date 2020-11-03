@@ -1,5 +1,4 @@
 
-package Main;
 
 //Clase abstracta que define el metodo de fabricacion de productos
 //Tambien posee los distintos productos soportados por la fabrica actualmente

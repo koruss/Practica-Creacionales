@@ -1,7 +1,4 @@
 
-package Main;
-
-
 //Clase que implementa la clase abstracta donde esta definido el metodo de la fabrica
 public class Creador extends CreadorAbstracto{
     
